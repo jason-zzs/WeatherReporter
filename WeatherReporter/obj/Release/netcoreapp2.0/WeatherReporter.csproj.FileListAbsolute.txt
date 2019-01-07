@@ -1,0 +1,11 @@
+D:\Project\WeatherReporter\WeatherReporter\bin\Release\netcoreapp2.0\WeatherReporter.deps.json
+D:\Project\WeatherReporter\WeatherReporter\bin\Release\netcoreapp2.0\WeatherReporter.runtimeconfig.json
+D:\Project\WeatherReporter\WeatherReporter\bin\Release\netcoreapp2.0\WeatherReporter.runtimeconfig.dev.json
+D:\Project\WeatherReporter\WeatherReporter\bin\Release\netcoreapp2.0\WeatherReporter.dll
+D:\Project\WeatherReporter\WeatherReporter\bin\Release\netcoreapp2.0\WeatherReporter.pdb
+D:\Project\WeatherReporter\WeatherReporter\obj\Release\netcoreapp2.0\WeatherReporter.csprojResolveAssemblyReference.cache
+D:\Project\WeatherReporter\WeatherReporter\obj\Release\netcoreapp2.0\WeatherReporter.csproj.CoreCompileInputs.cache
+D:\Project\WeatherReporter\WeatherReporter\obj\Release\netcoreapp2.0\WeatherReporter.AssemblyInfoInputs.cache
+D:\Project\WeatherReporter\WeatherReporter\obj\Release\netcoreapp2.0\WeatherReporter.AssemblyInfo.cs
+D:\Project\WeatherReporter\WeatherReporter\obj\Release\netcoreapp2.0\WeatherReporter.dll
+D:\Project\WeatherReporter\WeatherReporter\obj\Release\netcoreapp2.0\WeatherReporter.pdb

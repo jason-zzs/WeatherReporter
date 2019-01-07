@@ -3,39 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WeatherReporter", "WeatherReporter\", "{64EBC0BF-2BD7-4FB3-98BF-760E78A507BF}"
-	ProjectSection(WebsiteProperties) = preProject
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_56095"
-		Debug.AspNetCompiler.PhysicalPath = "WeatherReporter\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56095\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_56095"
-		Release.AspNetCompiler.PhysicalPath = "WeatherReporter\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56095\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "56095"
-		DefaultWebSiteLanguage = "Visual C#"
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherReporter", "WeatherReporter\WeatherReporter.csproj", "{354D5E82-989D-45B6-A192-B3FFEB8EBAEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{64EBC0BF-2BD7-4FB3-98BF-760E78A507BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64EBC0BF-2BD7-4FB3-98BF-760E78A507BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354D5E82-989D-45B6-A192-B3FFEB8EBAEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354D5E82-989D-45B6-A192-B3FFEB8EBAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354D5E82-989D-45B6-A192-B3FFEB8EBAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354D5E82-989D-45B6-A192-B3FFEB8EBAEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AA7CB871-0556-4C4D-874A-554C46E3EECC}
+		SolutionGuid = {EC8B4BCE-0E89-4A49-8273-0F1C4241C63C}
 	EndGlobalSection
 EndGlobal
